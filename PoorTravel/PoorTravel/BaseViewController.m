@@ -2,7 +2,7 @@
 //  BaseViewController.m
 //  PoorTravel
 //
-//  Created by Qianfeng on 16/3/9.
+//  Created by Qianfeng on 16/3/15.
 //  Copyright © 2016年 杜帅统. All rights reserved.
 //
 
@@ -17,7 +17,6 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor whiteColor];
-    // Do any additional setup after loading the view.
 }
 
 - (void)didReceiveMemoryWarning {

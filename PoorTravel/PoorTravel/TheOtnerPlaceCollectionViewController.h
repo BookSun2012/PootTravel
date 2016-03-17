@@ -1,5 +1,5 @@
 //
-//  BaseViewController.h
+//  TheOtnerPlaceCollectionViewController.h
 //  PoorTravel
 //
 //  Created by Qianfeng on 16/3/15.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface BaseViewController : UIViewController
+@interface TheOtnerPlaceCollectionViewController : UICollectionViewController
 
 @end
